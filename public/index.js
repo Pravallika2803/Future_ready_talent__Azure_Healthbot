@@ -117,7 +117,7 @@ function initBotConversation() {
                             // Use the following activity to proactively invoke a bot scenario
                          
                             triggeredScenario: {
-                                trigger: "{FTR_ALZ}",
+                                trigger: "{FTR_ALZ}"
                                 
                                 
                             }
