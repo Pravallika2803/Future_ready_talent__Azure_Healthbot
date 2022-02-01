@@ -61,7 +61,7 @@
         },
         "repoUrl": {
             "type": "string",
-            "defaultValue": "https://github.com/Pravallika2803/HealthBotContainerSample",
+            "defaultValue": "https://github.com/Pravallika2803/Future_ready_talent__Azure_Healthbot",
             "metadata": {
                 "description": "The URL for the GitHub repository that contains the project to deploy."
             }
