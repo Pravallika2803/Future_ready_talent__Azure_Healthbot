@@ -5,3 +5,4 @@ I have created the  Azure health bot. This bot helps Alzheimer patients manage t
  They can paste the two secrets in this link https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2%2Fraw.githubusercontent.com%2Fmicrosoft%2FHealthBotContainerSample%2Fmaster%2Fazuredeploy.json and link their github profile in the column of github ID.
  And after that they can create it and deploy it, leading to a new website which hosts our customised health bot.
  ** the health bot code is seperately present in health bot code.json file  and if we copy - paste the same in the health bot coding section, you can see a designer view of my work. Thank You**
+ Here is the deployment URL : https://healthcare-bot-mc37rqt4a3q3y.azurewebsites.net
